@@ -5,6 +5,7 @@ class User extends CI_Model {
 	function __contruct()
 	{
 		parent::__construct();
+		$this->load->model('Group');
 	}
 
 	/*
@@ -61,8 +62,23 @@ class User extends CI_Model {
 	/*
 	* Function returns details of the user
 	*/
-	function view()
+	function get( $user_id = 0 )
 	{
+		$data = array (
+			'id' => $user_id
+		);
+		
+		$query = $this->db->get_where('users', $data);
+		$user = array();
+		
+		foreach ( $query->result() as $item )
+		{
+			$item->group_name = $this->Group->group_name ( $item->group_id );
+			array_push ( $user, $item );
+		}
+		
+		return $user[0];
+	
 	}
 	
 	/*
@@ -70,8 +86,14 @@ class User extends CI_Model {
 	*/
 	function all()
 	{
-		return $this->db->get('users')->result();
-		
+		$query = $this->db->get('users');
+		$users = array();
+		foreach ( $query->result() as $item )
+		{
+			$item->group_name = $this->Group->group_name ( $item->group_id );
+			array_push ( $users, $item );
+		}
+		return $users;
 	}
 
 	/*
@@ -81,7 +103,7 @@ class User extends CI_Model {
 	{
 		// Filtering requirement data
 		$data = array (
-			'group_id' => 1, // TODO: group_id
+			'group_id' => $this->input->post('group_id'),
 			'username' => $this->input->post('username'),
 			'password' => $this->encrypt->sha1($this->input->post('password')),
 			'email' => $this->input->post('email')
@@ -99,13 +121,39 @@ class User extends CI_Model {
 	*/
 	function update()
 	{
+		echo "Dast is update";
 	}
 
 	/*
 	* Function removes user
 	*/
-	function delete()
+	function remove()
 	{
+		$data = array (
+			'id' => $this->input->post('id')
+		);
+		
+		$this->db->delete('users', $data);
+		
+		return true;
+	}
+	
+	/*
+	* Function counts how many users are in the group
+	*/
+	function users_in_group( $group_id = 0 )
+	{
+		if ( $group_id == 0 )
+		{
+			return 0;
+		}
+		
+		$data = array (
+			'group_id' => $group_id
+		);
+		
+		$query = $this->db->get_where('users', $data );
+		return $query->num_rows;
 	}
 
 }

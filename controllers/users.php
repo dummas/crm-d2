@@ -6,6 +6,7 @@ class Users extends CI_Controller {
 	{
 		parent::__construct();
 		$this->load->model('User');
+		$this->load->model('Group');
 		$this->load->library('encrypt');
 		$this->lang->load('error');
 	}
@@ -22,10 +23,14 @@ class Users extends CI_Controller {
 		
 		$data = array();
 		
-		$this->load->view('users/header');
-		$this->load->view('users/menu');
+		$header = array(
+			'title' => 'Main'
+		);
+		
+		$this->load->view('header', $header);
+		$this->load->view('menu');
 		$this->load->view('users/index', $data);
-		$this->load->view('users/footer');
+		$this->load->view('footer');
 	}
 
 	/*
@@ -54,9 +59,14 @@ class Users extends CI_Controller {
 				$data['message'] = $this->lang->line('error_user_not_exists');
 			}
 		}
-		$this->load->view('users/header');
+		
+		$header = array(
+			'title' => 'Login'
+		);
+		
+		$this->load->view('header', $header);
 		$this->load->view('users/login', $data);
-		$this->load->view('users/footer');
+		$this->load->view('footer');
 	}
 	
 	/*
@@ -84,9 +94,20 @@ class Users extends CI_Controller {
 				echo "Error on adding user";
 			}
 		}
-		$this->load->view('users/header');
-		$this->load->view('users/add');
-		$this->load->view('users/footer');
+		
+		$data = array (
+			'groups' => $this->Group->dropdown()
+		);
+		
+		$header = array(
+			'title' => 'Add user'
+		);
+		
+		$this->load->view('header', $header);
+		$this->load->view('menu');
+		$this->load->view('users/menu');
+		$this->load->view('users/add', $data);
+		$this->load->view('footer');
 	}
 	
 	/*
@@ -98,40 +119,100 @@ class Users extends CI_Controller {
 			'users' => $this->User->all()
 		);
 		
-		$this->load->view('users/header');
+		$header = array(
+			'title' => 'List users'
+		);
+		
+		$this->load->view('header', $header);
+		$this->load->view('menu');
 		$this->load->view('users/menu');
 		$this->load->view('users/roll', $data);
-		$this->load->view('users/footer');
+		$this->load->view('footer');
 	}
 	
 	/*
 	* View user page
 	*/
-	public function view()
+	public function view( $user_id = 0 )
 	{
-		$this->load->view('users/header');
-		$this->load->view('users/view');
-		$this->load->view('users/footer');
+	
+		$data = array (
+			'user' => $this->User->get( $user_id )
+		);
+	
+		$header = array(
+			'title' => 'View user'
+		);
+	
+		$this->load->view('header', $header);
+		$this->load->view('menu');
+		$this->load->view('users/view', $data);
+		$this->load->view('footer');
 	}
 	
 	/*
 	* Edit user page
 	*/
-	public function edit()
+	public function edit( $user_id = 0 )
 	{
-		$this->load->view('users/header');
-		$this->load->view('users/edit');
-		$this->load->view('users/footer');
+	
+		if ( $this->input->post('edit') )
+		{
+			if ( $this->User->update() )
+			{
+				echo "User added";
+			}
+			else
+			{
+				echo "Error on adding user";
+			}
+		}
+		
+		$data = array (
+			'user' => $this->User->get( $user_id ),
+			'groups' => $this->Group->dropdown()
+		);
+		
+		$header = array(
+			'title' => 'Edit user'
+		);
+		
+		$this->load->view('header', $header);
+		$this->load->view('menu');
+		$this->load->view('users/add', $data);
+		$this->load->view('footer');
 	}
 
 	/*
 	* Delete user page
 	*/
-	public function del()
+	public function delete( $user_id = 0 )
 	{
-		$this->load->view('users/header');
-		$this->load->view('users/del');
-		$this->load->view('users/footer');
+		if ( $this->input->post('delete') )
+		{
+			if ( $this->User->remove() )
+			{
+				// TODO
+				redirect('users/roll');
+			}
+			else
+			{
+				// TODO
+			}
+		}
+		
+		$data = array (
+			'user_id' => array('id' => $user_id )
+		);
+	
+		$header = array(
+			'title' => 'Delete user'
+		);
+	
+		$this->load->view('header', $header);
+		$this->load->view('menu');
+		$this->load->view('users/delete', $data);
+		$this->load->view('footer');
 	}
 
 }

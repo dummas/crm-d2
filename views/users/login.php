@@ -1,3 +1,5 @@
+<div class="wrap">
+	<div class="center">
 <?php 
 
 if (isset($message) )
@@ -14,3 +16,5 @@ echo form_submit('login', 'Login');
 echo form_close(); 
 
 ?>
+	</div>
+</div>
