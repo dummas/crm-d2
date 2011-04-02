@@ -1,6 +1,6 @@
 <?php
 
-echo form_open('users/edit');
+echo form_open('users/edit/'.$user->id);
 	
 
 echo form_label('Username', 'username');

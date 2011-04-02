@@ -2,44 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="lt" lang="lt"> 
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+		<base href="<?php echo base_url() ?>"/> 
 		<title>CRM D-2<?php if ( isset($title) ){ echo " - ".$title; } ?></title>
-		<style>
-		label {
-			clear: left;
-			float: left;
-			width: 130px;
-		}
-		input {
-			float: left;
-		}
-		input[type="submit"] {
-			float: left;
-			clear: left;
-		}
-		select {
-			float: left;
-		}
-		table, table td, table th {
-			border-collapse: collapse;
-			border: 2px solid #333;
-			text-align: center;
-		}
-		table th {
-			padding: 10px;
-		}
-		table td {
-			padding: 5px;
-		}
-		div.wrap {
-			width: 100%;
-			float: left;
-		}
-		div.center {
-			margin: 0 auto;
-			width: 500px;
-			text-align: center;
-		}
-		</style>
+		<?php echo link_tag('css/style.css') ?>
 	</head>
 	<body>
 	

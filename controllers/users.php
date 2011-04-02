@@ -44,13 +44,15 @@ class Users extends CI_Controller {
 		{
 			redirect('/');
 		}
+		
 		// Check if form is submitted
 		if ( $this->input->post('login') )
 		{
-			if ( $this->User->exists() )
+			$user_id = $this->User->exists();
+			if ( $user_id )
 			{
 				// User exists
-				$this->User->session_register();
+				$this->User->session_register( $user_id );
 				redirect('/');
 			}
 			else
@@ -158,13 +160,14 @@ class Users extends CI_Controller {
 	
 		if ( $this->input->post('edit') )
 		{
-			if ( $this->User->update() )
+			if ( $this->User->update( $user_id  ) )
 			{
-				echo "User added";
+				//echo "User added";
+				redirect('users/roll');
 			}
 			else
 			{
-				echo "Error on adding user";
+				//echo "Error on adding user";
 			}
 		}
 		
@@ -179,7 +182,7 @@ class Users extends CI_Controller {
 		
 		$this->load->view('header', $header);
 		$this->load->view('menu');
-		$this->load->view('users/add', $data);
+		$this->load->view('users/edit', $data);
 		$this->load->view('footer');
 	}
 

@@ -22,7 +22,10 @@ class User extends CI_Model {
 		$result = $this->db->get_where('users', $data );
 		if ( $result->num_rows != 0 )
 		{
-			return true;
+			foreach ( $result->result() as $item ) {
+				return $item->id;
+			}
+			//return true;
 		}
 		return false;
 	}
@@ -30,10 +33,11 @@ class User extends CI_Model {
 	/*
 	* Function registers user session
 	*/
-	function session_register()
+	function session_register( $user_id = 0 )
 	{
 		$data = array (
 			'username' => $this->input->post('username'),
+			'user_id' => $user_id,
 			'logged_in' => true
 		);
 		$this->session->set_userdata($data);
@@ -119,9 +123,29 @@ class User extends CI_Model {
 	/*
 	* Function updates user details
 	*/
-	function update()
+	function update( $user_id = 0 )
 	{
-		echo "Dast is update";
+		$data = array (
+			'group_id' => $this->input->post('group_id'),
+			'username' => $this->input->post('username'),
+			'email' => $this->input->post('email')
+		);
+		
+		$password = $this->input->post('password');
+		
+		if ( ! empty( $password ) )
+		{
+			// if is not empty
+			$data['password'] = $this->encrypt->sha1($password);
+		}
+		
+		$this->db->where( 'id', $user_id );
+		if ( $this->db->update( 'users', $data ) )
+		{
+			return true;
+		}
+		
+		return false;
 	}
 
 	/*
@@ -154,6 +178,14 @@ class User extends CI_Model {
 		
 		$query = $this->db->get_where('users', $data );
 		return $query->num_rows;
+	}
+	
+	/*
+	* Function returns logged user id
+	*/
+	function logged_user_id()
+	{
+		return $this->session->userdata('user_id');
 	}
 
 }

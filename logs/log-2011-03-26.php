@@ -12568,3 +12568,3707 @@ DEBUG - 2011-03-26 16:08:36 --> File loaded: application/views/users/login.php
 DEBUG - 2011-03-26 16:08:36 --> File loaded: application/views/footer.php
 DEBUG - 2011-03-26 16:08:36 --> Final output sent to browser
 DEBUG - 2011-03-26 16:08:36 --> Total execution time: 0.0891
+DEBUG - 2011-03-26 19:39:43 --> Config Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Hooks Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Utf8 Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> UTF-8 Support Enabled
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> URI Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Router Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Output Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Input Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Global POST and COOKIE data sanitized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Language Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Loader Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Helper loaded: url_helper
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Helper loaded: form_helper
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Helper loaded: html_helper
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Database config for development environment is not found. Trying global config.
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Database Driver Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Session Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Helper loaded: string_helper
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Session routines successfully run
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Controller Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Model Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Model Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Model Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Encrypt Class Initialized
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Language file loaded: language/lithuanian/error_lang.php
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> File loaded: application/views/header.php
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> File loaded: application/views/menu.php
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> File loaded: application/views/products/menu.php
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> File loaded: application/views/products/roll.php
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> File loaded: application/views/footer.php
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Final output sent to browser
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:43 --> Total execution time: 0.0826
+ERROR - 2011-03-26 19:39:43 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> Config Class Initialized
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> Hooks Class Initialized
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> Utf8 Class Initialized
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> UTF-8 Support Enabled
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> URI Class Initialized
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> Router Class Initialized
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> Output Class Initialized
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> Input Class Initialized
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> Global POST and COOKIE data sanitized
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> Language Class Initialized
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:46 --> Loader Class Initialized
+ERROR - 2011-03-26 19:39:46 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Helper loaded: url_helper
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Helper loaded: form_helper
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Helper loaded: html_helper
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Database config for development environment is not found. Trying global config.
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Database Driver Class Initialized
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Session Class Initialized
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Helper loaded: string_helper
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Session routines successfully run
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Controller Class Initialized
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Model Class Initialized
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Model Class Initialized
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Model Class Initialized
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Encrypt Class Initialized
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Language file loaded: language/lithuanian/error_lang.php
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> File loaded: application/views/header.php
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> File loaded: application/views/menu.php
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> File loaded: application/views/products/menu.php
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> File loaded: application/views/products/roll.php
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> File loaded: application/views/footer.php
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Final output sent to browser
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:39:47 --> Total execution time: 0.0869
+ERROR - 2011-03-26 19:39:47 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Config Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Hooks Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Utf8 Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> UTF-8 Support Enabled
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> URI Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Router Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Output Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Input Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Global POST and COOKIE data sanitized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Language Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Loader Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Helper loaded: url_helper
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Helper loaded: form_helper
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Helper loaded: html_helper
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Database config for development environment is not found. Trying global config.
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Database Driver Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Session Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Helper loaded: string_helper
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Session routines successfully run
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Controller Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Model Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Model Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Model Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Encrypt Class Initialized
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Language file loaded: language/lithuanian/error_lang.php
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> File loaded: application/views/header.php
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> File loaded: application/views/menu.php
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> File loaded: application/views/products/menu.php
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> File loaded: application/views/products/roll.php
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> File loaded: application/views/footer.php
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Final output sent to browser
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:04 --> Total execution time: 0.0828
+ERROR - 2011-03-26 19:40:04 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:06 --> Config Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Hooks Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Utf8 Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> UTF-8 Support Enabled
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> URI Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Router Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Output Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Input Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Global POST and COOKIE data sanitized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Language Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Loader Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Helper loaded: url_helper
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Helper loaded: form_helper
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Helper loaded: html_helper
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Database config for development environment is not found. Trying global config.
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Database Driver Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Session Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Helper loaded: string_helper
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Session routines successfully run
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Controller Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Model Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Model Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Model Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Encrypt Class Initialized
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Language file loaded: language/lithuanian/error_lang.php
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> File loaded: application/views/header.php
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> File loaded: application/views/menu.php
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> File loaded: application/views/products/menu.php
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> File loaded: application/views/products/roll.php
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> File loaded: application/views/footer.php
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Final output sent to browser
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:07 --> Total execution time: 0.0853
+ERROR - 2011-03-26 19:40:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:08 --> Config Class Initialized
+ERROR - 2011-03-26 19:40:08 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Hooks Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Utf8 Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> UTF-8 Support Enabled
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> URI Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Router Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Output Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Input Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Global POST and COOKIE data sanitized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Language Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Loader Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Helper loaded: url_helper
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Helper loaded: form_helper
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Helper loaded: html_helper
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Database config for development environment is not found. Trying global config.
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Database Driver Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Session Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Helper loaded: string_helper
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Session routines successfully run
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Controller Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Model Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Model Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Model Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Encrypt Class Initialized
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Language file loaded: language/lithuanian/error_lang.php
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> File loaded: application/views/header.php
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> File loaded: application/views/menu.php
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> File loaded: application/views/products/add.php
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> File loaded: application/views/footer.php
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Final output sent to browser
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:40:09 --> Total execution time: 0.1019
+ERROR - 2011-03-26 19:40:09 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Config Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Hooks Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Utf8 Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> UTF-8 Support Enabled
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> URI Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Router Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Output Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Input Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Global POST and COOKIE data sanitized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Language Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Loader Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Helper loaded: url_helper
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Helper loaded: form_helper
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Helper loaded: html_helper
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Database config for development environment is not found. Trying global config.
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Database Driver Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Session Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Helper loaded: string_helper
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Session routines successfully run
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Controller Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Model Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Model Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Model Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Encrypt Class Initialized
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Language file loaded: language/lithuanian/error_lang.php
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> File loaded: application/views/header.php
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> File loaded: application/views/menu.php
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> File loaded: application/views/products/add.php
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> File loaded: application/views/footer.php
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Final output sent to browser
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:51:33 --> Total execution time: 0.0862
+ERROR - 2011-03-26 19:51:33 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Config Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Hooks Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Utf8 Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> UTF-8 Support Enabled
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> URI Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Router Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Output Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Input Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Global POST and COOKIE data sanitized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Language Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Loader Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Helper loaded: url_helper
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Helper loaded: form_helper
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Helper loaded: html_helper
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Database config for development environment is not found. Trying global config.
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Database Driver Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Session Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Helper loaded: string_helper
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Session routines successfully run
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Controller Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Model Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Model Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Model Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Encrypt Class Initialized
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Language file loaded: language/lithuanian/error_lang.php
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> File loaded: application/views/header.php
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> File loaded: application/views/menu.php
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> File loaded: application/views/products/add.php
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> File loaded: application/views/footer.php
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Final output sent to browser
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:54:07 --> Total execution time: 0.0873
+ERROR - 2011-03-26 19:54:07 --> Severity: Warning  --> chmod(): Operation not permitted /srv/http/crm2/system/libraries/Log.php 106
+DEBUG - 2011-03-26 19:56:15 --> Config Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:56:15 --> URI Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Router Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Output Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Input Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:56:15 --> Language Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:56:15 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:56:15 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:56:15 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:56:15 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Session Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:56:15 --> Session routines successfully run
+DEBUG - 2011-03-26 19:56:15 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:56:15 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:56:15 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:56:15 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:56:15 --> File loaded: application/views/products/add.php
+DEBUG - 2011-03-26 19:56:15 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:56:15 --> Final output sent to browser
+DEBUG - 2011-03-26 19:56:15 --> Total execution time: 0.0782
+DEBUG - 2011-03-26 19:56:25 --> Config Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:56:25 --> URI Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Router Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Output Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Input Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:56:25 --> Language Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:56:25 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:56:25 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:56:25 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:56:25 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Session Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:56:25 --> Session routines successfully run
+DEBUG - 2011-03-26 19:56:25 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:56:25 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:56:25 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:56:25 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:56:25 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:56:25 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 19:56:25 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:56:25 --> Final output sent to browser
+DEBUG - 2011-03-26 19:56:25 --> Total execution time: 0.0957
+DEBUG - 2011-03-26 19:56:26 --> Config Class Initialized
+DEBUG - 2011-03-26 19:56:26 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:56:26 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:56:26 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:56:26 --> URI Class Initialized
+DEBUG - 2011-03-26 19:56:26 --> Router Class Initialized
+DEBUG - 2011-03-26 19:56:26 --> Output Class Initialized
+DEBUG - 2011-03-26 19:56:26 --> Input Class Initialized
+DEBUG - 2011-03-26 19:56:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:56:27 --> Language Class Initialized
+DEBUG - 2011-03-26 19:56:27 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:56:27 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:56:27 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:56:27 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:56:27 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:56:27 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:56:27 --> Session Class Initialized
+DEBUG - 2011-03-26 19:56:27 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:56:27 --> Session routines successfully run
+DEBUG - 2011-03-26 19:56:27 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:56:27 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:27 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:27 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:27 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:56:27 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:56:27 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:56:27 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:56:27 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:56:27 --> File loaded: application/views/products/edit.php
+DEBUG - 2011-03-26 19:56:27 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:56:27 --> Final output sent to browser
+DEBUG - 2011-03-26 19:56:27 --> Total execution time: 0.0938
+DEBUG - 2011-03-26 19:56:29 --> Config Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:56:29 --> URI Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Router Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Output Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Input Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:56:29 --> Language Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:56:29 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:56:29 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:56:29 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:56:29 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Session Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:56:29 --> Session routines successfully run
+DEBUG - 2011-03-26 19:56:29 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:56:29 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:56:29 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:56:29 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:56:29 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:56:29 --> File loaded: application/views/products/edit.php
+DEBUG - 2011-03-26 19:56:29 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:56:29 --> Final output sent to browser
+DEBUG - 2011-03-26 19:56:29 --> Total execution time: 0.2357
+DEBUG - 2011-03-26 19:56:53 --> Config Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:56:53 --> URI Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Router Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Output Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Input Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:56:53 --> Language Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:56:53 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:56:53 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:56:53 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:56:53 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Session Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:56:53 --> Session routines successfully run
+DEBUG - 2011-03-26 19:56:53 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:56:53 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:56:53 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:56:53 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:56:53 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:56:53 --> File loaded: application/views/products/edit.php
+DEBUG - 2011-03-26 19:56:53 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:56:53 --> Final output sent to browser
+DEBUG - 2011-03-26 19:56:53 --> Total execution time: 0.2516
+DEBUG - 2011-03-26 19:56:59 --> Config Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:56:59 --> URI Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Router Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Output Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Input Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:56:59 --> Language Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:56:59 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:56:59 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:56:59 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:56:59 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Session Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:56:59 --> Session routines successfully run
+DEBUG - 2011-03-26 19:56:59 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Model Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:56:59 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:56:59 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:56:59 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:56:59 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:56:59 --> File loaded: application/views/products/edit.php
+DEBUG - 2011-03-26 19:56:59 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:56:59 --> Final output sent to browser
+DEBUG - 2011-03-26 19:56:59 --> Total execution time: 0.3602
+DEBUG - 2011-03-26 19:57:32 --> Config Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:57:32 --> URI Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Router Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Output Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Input Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:57:32 --> Language Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:57:32 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:57:32 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:57:32 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:57:32 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Session Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:57:32 --> Session routines successfully run
+DEBUG - 2011-03-26 19:57:32 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:57:32 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:57:32 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:57:32 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:57:32 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:57:32 --> File loaded: application/views/products/edit.php
+DEBUG - 2011-03-26 19:57:32 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:57:32 --> Final output sent to browser
+DEBUG - 2011-03-26 19:57:32 --> Total execution time: 0.2810
+DEBUG - 2011-03-26 19:57:34 --> Config Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:57:34 --> URI Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Router Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Output Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Input Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:57:34 --> Language Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:57:34 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:57:34 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:57:34 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:57:34 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Session Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:57:34 --> Session routines successfully run
+DEBUG - 2011-03-26 19:57:34 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:57:34 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:57:34 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:57:34 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:57:34 --> File loaded: application/views/users/menu.php
+DEBUG - 2011-03-26 19:57:34 --> File loaded: application/views/users/roll.php
+DEBUG - 2011-03-26 19:57:34 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:57:34 --> Final output sent to browser
+DEBUG - 2011-03-26 19:57:34 --> Total execution time: 0.1044
+DEBUG - 2011-03-26 19:57:35 --> Config Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:57:35 --> URI Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Router Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Output Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Input Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:57:35 --> Language Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:57:35 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:57:35 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:57:35 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:57:35 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Session Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:57:35 --> Session routines successfully run
+DEBUG - 2011-03-26 19:57:35 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:57:35 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:57:35 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:57:35 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:57:35 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:57:35 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 19:57:35 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:57:35 --> Final output sent to browser
+DEBUG - 2011-03-26 19:57:35 --> Total execution time: 0.0699
+DEBUG - 2011-03-26 19:57:37 --> Config Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:57:37 --> URI Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Router Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Output Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Input Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:57:37 --> Language Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:57:37 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:57:37 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:57:37 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:57:37 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Session Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:57:37 --> Session routines successfully run
+DEBUG - 2011-03-26 19:57:37 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:57:37 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:57:37 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:57:37 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:57:37 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:57:37 --> File loaded: application/views/products/edit.php
+DEBUG - 2011-03-26 19:57:37 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:57:37 --> Final output sent to browser
+DEBUG - 2011-03-26 19:57:37 --> Total execution time: 0.0921
+DEBUG - 2011-03-26 19:57:59 --> Config Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:57:59 --> URI Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Router Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Output Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Input Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:57:59 --> Language Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:57:59 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:57:59 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:57:59 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:57:59 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Session Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:57:59 --> Session routines successfully run
+DEBUG - 2011-03-26 19:57:59 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Model Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:57:59 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:57:59 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:57:59 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:57:59 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:57:59 --> File loaded: application/views/products/edit.php
+DEBUG - 2011-03-26 19:57:59 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:57:59 --> Final output sent to browser
+DEBUG - 2011-03-26 19:57:59 --> Total execution time: 0.2515
+DEBUG - 2011-03-26 19:58:10 --> Config Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:58:10 --> URI Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Router Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Output Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Input Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:58:10 --> Language Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:58:10 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:58:10 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:58:10 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:58:10 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Session Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:58:10 --> Session routines successfully run
+DEBUG - 2011-03-26 19:58:10 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:58:10 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:58:10 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:58:10 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:58:10 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:58:10 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 19:58:10 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:58:10 --> Final output sent to browser
+DEBUG - 2011-03-26 19:58:10 --> Total execution time: 0.1004
+DEBUG - 2011-03-26 19:58:11 --> Config Class Initialized
+DEBUG - 2011-03-26 19:58:11 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:58:11 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:58:11 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:58:11 --> URI Class Initialized
+DEBUG - 2011-03-26 19:58:11 --> Router Class Initialized
+DEBUG - 2011-03-26 19:58:11 --> Output Class Initialized
+DEBUG - 2011-03-26 19:58:11 --> Input Class Initialized
+DEBUG - 2011-03-26 19:58:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:58:11 --> Language Class Initialized
+DEBUG - 2011-03-26 19:58:11 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:58:11 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:58:11 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:58:11 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:58:11 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:58:12 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:58:12 --> Session Class Initialized
+DEBUG - 2011-03-26 19:58:12 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:58:12 --> Session routines successfully run
+DEBUG - 2011-03-26 19:58:12 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:58:12 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:12 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:12 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:12 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:58:12 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:58:12 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:58:12 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:58:12 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:58:12 --> File loaded: application/views/products/edit.php
+DEBUG - 2011-03-26 19:58:12 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:58:12 --> Final output sent to browser
+DEBUG - 2011-03-26 19:58:12 --> Total execution time: 0.0965
+DEBUG - 2011-03-26 19:58:16 --> Config Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:58:16 --> URI Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Router Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Output Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Input Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:58:16 --> Language Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:58:16 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:58:16 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:58:16 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:58:16 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Session Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:58:16 --> Session routines successfully run
+DEBUG - 2011-03-26 19:58:16 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:58:16 --> Config Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:58:16 --> URI Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Router Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Output Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Input Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:58:16 --> Language Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:58:16 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:58:16 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:58:16 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:58:16 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Session Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:58:16 --> Session routines successfully run
+DEBUG - 2011-03-26 19:58:16 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:58:16 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:58:16 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:58:16 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:58:16 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:58:16 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 19:58:16 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:58:16 --> Final output sent to browser
+DEBUG - 2011-03-26 19:58:16 --> Total execution time: 0.0524
+DEBUG - 2011-03-26 19:58:42 --> Config Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:58:42 --> URI Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Router Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Output Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Input Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:58:42 --> Language Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:58:42 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:58:42 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:58:42 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:58:42 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Session Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:58:42 --> Session routines successfully run
+DEBUG - 2011-03-26 19:58:42 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:58:42 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:58:42 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:58:42 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:58:42 --> File loaded: application/views/products/add.php
+DEBUG - 2011-03-26 19:58:42 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:58:42 --> Final output sent to browser
+DEBUG - 2011-03-26 19:58:42 --> Total execution time: 0.0785
+DEBUG - 2011-03-26 19:58:52 --> Config Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:58:52 --> URI Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Router Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Output Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Input Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:58:52 --> Language Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:58:52 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:58:52 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:58:52 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:58:52 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Session Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:58:52 --> Session routines successfully run
+DEBUG - 2011-03-26 19:58:52 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:58:52 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:58:52 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:58:52 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:58:52 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:58:52 --> File loaded: application/views/products/add.php
+DEBUG - 2011-03-26 19:58:52 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:58:52 --> Final output sent to browser
+DEBUG - 2011-03-26 19:58:52 --> Total execution time: 0.0756
+DEBUG - 2011-03-26 19:58:59 --> Config Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:58:59 --> URI Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Router Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Output Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Input Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:58:59 --> Language Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:58:59 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:58:59 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:58:59 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:58:59 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Session Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:58:59 --> Session routines successfully run
+DEBUG - 2011-03-26 19:58:59 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Model Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:58:59 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:59:00 --> Config Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:59:00 --> URI Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Router Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Output Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Input Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:59:00 --> Language Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:59:00 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:59:00 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:59:00 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:59:00 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Session Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:59:00 --> Session routines successfully run
+DEBUG - 2011-03-26 19:59:00 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:59:00 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:59:00 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:59:00 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:59:00 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:59:00 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 19:59:00 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:59:00 --> Final output sent to browser
+DEBUG - 2011-03-26 19:59:00 --> Total execution time: 0.0650
+DEBUG - 2011-03-26 19:59:02 --> Config Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:59:02 --> URI Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Router Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Output Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Input Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:59:02 --> Language Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:59:02 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:59:02 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:59:02 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:59:02 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Session Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:59:02 --> Session routines successfully run
+DEBUG - 2011-03-26 19:59:02 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:59:02 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:59:02 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:59:02 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:59:02 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:59:02 --> File loaded: application/views/products/add.php
+DEBUG - 2011-03-26 19:59:02 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:59:02 --> Final output sent to browser
+DEBUG - 2011-03-26 19:59:02 --> Total execution time: 0.0893
+DEBUG - 2011-03-26 19:59:09 --> Config Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:59:09 --> URI Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Router Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Output Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Input Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:59:09 --> Language Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:59:09 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:59:09 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:59:09 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:59:09 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Session Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:59:09 --> Session routines successfully run
+DEBUG - 2011-03-26 19:59:09 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:59:09 --> Config Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:59:09 --> URI Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Router Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Output Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Input Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:59:09 --> Language Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:59:09 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:59:09 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:59:09 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:59:09 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Session Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:59:09 --> Session routines successfully run
+DEBUG - 2011-03-26 19:59:09 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:59:09 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:59:09 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:59:09 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:59:09 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:59:09 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 19:59:09 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:59:09 --> Final output sent to browser
+DEBUG - 2011-03-26 19:59:09 --> Total execution time: 0.0647
+DEBUG - 2011-03-26 19:59:35 --> Config Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:59:35 --> URI Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Router Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Output Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Input Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:59:35 --> Language Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:59:35 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:59:35 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:59:35 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:59:35 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Session Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:59:35 --> Session routines successfully run
+DEBUG - 2011-03-26 19:59:35 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:59:35 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:59:35 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 19:59:35 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 19:59:35 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 19:59:35 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 19:59:35 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 19:59:35 --> Final output sent to browser
+DEBUG - 2011-03-26 19:59:35 --> Total execution time: 0.0814
+DEBUG - 2011-03-26 19:59:43 --> Config Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Hooks Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 19:59:43 --> URI Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Router Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Output Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Input Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 19:59:43 --> Language Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Loader Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 19:59:43 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 19:59:43 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 19:59:43 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 19:59:43 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Session Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 19:59:43 --> Session routines successfully run
+DEBUG - 2011-03-26 19:59:43 --> Controller Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Model Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 19:59:43 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 19:59:43 --> Final output sent to browser
+DEBUG - 2011-03-26 19:59:43 --> Total execution time: 0.0836
+DEBUG - 2011-03-26 20:03:22 --> Config Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:03:22 --> URI Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Router Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Output Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Input Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:03:22 --> Language Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:03:22 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:03:22 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:03:22 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:03:22 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Session Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:03:22 --> Session routines successfully run
+DEBUG - 2011-03-26 20:03:22 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Model Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Model Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Model Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:03:22 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:03:22 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:03:22 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:03:22 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:03:22 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:03:22 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:03:22 --> Final output sent to browser
+DEBUG - 2011-03-26 20:03:22 --> Total execution time: 0.0850
+DEBUG - 2011-03-26 20:03:25 --> Config Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:03:25 --> URI Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Router Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Output Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Input Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:03:25 --> Language Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:03:25 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:03:25 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:03:25 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:03:25 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Session Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:03:25 --> Session routines successfully run
+DEBUG - 2011-03-26 20:03:25 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Model Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Model Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Model Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:03:25 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:03:25 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:03:25 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:03:25 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:03:25 --> File loaded: application/views/products/view.php
+DEBUG - 2011-03-26 20:03:25 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:03:25 --> Final output sent to browser
+DEBUG - 2011-03-26 20:03:25 --> Total execution time: 0.0897
+DEBUG - 2011-03-26 20:05:07 --> Config Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:05:07 --> URI Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Router Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Output Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Input Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:05:07 --> Language Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:05:07 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:05:07 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:05:07 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:05:07 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Session Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:05:07 --> Session routines successfully run
+DEBUG - 2011-03-26 20:05:07 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:05:07 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:05:07 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:05:07 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:05:17 --> Config Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:05:17 --> URI Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Router Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Output Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Input Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:05:17 --> Language Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:05:17 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:05:17 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:05:17 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:05:17 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Session Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:05:17 --> Session routines successfully run
+DEBUG - 2011-03-26 20:05:17 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:05:17 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:05:17 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:05:17 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:05:17 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:05:17 --> File loaded: application/views/products/view.php
+DEBUG - 2011-03-26 20:05:17 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:05:17 --> Final output sent to browser
+DEBUG - 2011-03-26 20:05:17 --> Total execution time: 0.0836
+DEBUG - 2011-03-26 20:05:42 --> Config Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:05:42 --> URI Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Router Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Output Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Input Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:05:42 --> Language Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:05:42 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:05:42 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:05:42 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:05:42 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Session Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:05:42 --> Session routines successfully run
+DEBUG - 2011-03-26 20:05:42 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:05:42 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:05:42 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:05:42 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:05:42 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:05:42 --> File loaded: application/views/products/view.php
+DEBUG - 2011-03-26 20:05:42 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:05:42 --> Final output sent to browser
+DEBUG - 2011-03-26 20:05:42 --> Total execution time: 0.1439
+DEBUG - 2011-03-26 20:05:43 --> Config Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:05:43 --> URI Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Router Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Output Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Input Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:05:43 --> Language Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:05:43 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:05:43 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:05:43 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:05:43 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Session Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:05:43 --> Session routines successfully run
+DEBUG - 2011-03-26 20:05:43 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:05:43 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:05:43 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:05:43 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:05:43 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:05:43 --> File loaded: application/views/products/edit.php
+DEBUG - 2011-03-26 20:05:43 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:05:43 --> Final output sent to browser
+DEBUG - 2011-03-26 20:05:43 --> Total execution time: 0.1077
+DEBUG - 2011-03-26 20:05:47 --> Config Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:05:47 --> URI Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Router Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Output Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Input Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:05:47 --> Language Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:05:47 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:05:47 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:05:47 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:05:47 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Session Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:05:47 --> Session routines successfully run
+DEBUG - 2011-03-26 20:05:47 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:05:47 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:05:47 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:05:47 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:05:47 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:05:47 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:05:47 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:05:47 --> Final output sent to browser
+DEBUG - 2011-03-26 20:05:47 --> Total execution time: 0.1095
+DEBUG - 2011-03-26 20:05:53 --> Config Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:05:53 --> URI Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Router Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Output Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Input Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:05:53 --> Language Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:05:53 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:05:53 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:05:53 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:05:53 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Session Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:05:53 --> Session routines successfully run
+DEBUG - 2011-03-26 20:05:53 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:05:53 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:05:53 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:05:53 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:05:53 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:05:53 --> File loaded: application/views/products/view.php
+DEBUG - 2011-03-26 20:05:53 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:05:53 --> Final output sent to browser
+DEBUG - 2011-03-26 20:05:53 --> Total execution time: 0.0846
+DEBUG - 2011-03-26 20:05:54 --> Config Class Initialized
+DEBUG - 2011-03-26 20:05:54 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:05:54 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:05:54 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:05:54 --> URI Class Initialized
+DEBUG - 2011-03-26 20:05:54 --> Router Class Initialized
+DEBUG - 2011-03-26 20:05:54 --> Output Class Initialized
+DEBUG - 2011-03-26 20:05:54 --> Input Class Initialized
+DEBUG - 2011-03-26 20:05:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:05:54 --> Language Class Initialized
+DEBUG - 2011-03-26 20:05:55 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:05:55 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:05:55 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:05:55 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:05:55 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:05:55 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:05:55 --> Session Class Initialized
+DEBUG - 2011-03-26 20:05:55 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:05:55 --> Session routines successfully run
+DEBUG - 2011-03-26 20:05:55 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:05:55 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:55 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:55 --> Model Class Initialized
+DEBUG - 2011-03-26 20:05:55 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:05:55 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:05:55 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:05:55 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:05:55 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:05:55 --> File loaded: application/views/products/view.php
+DEBUG - 2011-03-26 20:05:55 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:05:55 --> Final output sent to browser
+DEBUG - 2011-03-26 20:05:55 --> Total execution time: 0.0801
+DEBUG - 2011-03-26 20:06:25 --> Config Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:06:25 --> URI Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Router Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Output Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Input Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:06:25 --> Language Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:06:25 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:06:25 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:06:25 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:06:25 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Session Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:06:25 --> Session routines successfully run
+DEBUG - 2011-03-26 20:06:25 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:06:25 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:06:25 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:06:25 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:06:25 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:06:25 --> File loaded: application/views/products/view.php
+DEBUG - 2011-03-26 20:06:25 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:06:25 --> Final output sent to browser
+DEBUG - 2011-03-26 20:06:25 --> Total execution time: 0.0921
+DEBUG - 2011-03-26 20:06:37 --> Config Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:06:37 --> URI Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Router Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Output Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Input Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:06:37 --> Language Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:06:37 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:06:37 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:06:37 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:06:37 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Session Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:06:37 --> Session routines successfully run
+DEBUG - 2011-03-26 20:06:37 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:06:37 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:06:37 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:06:37 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:06:37 --> File loaded: application/views/users/menu.php
+DEBUG - 2011-03-26 20:06:37 --> File loaded: application/views/users/roll.php
+DEBUG - 2011-03-26 20:06:37 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:06:37 --> Final output sent to browser
+DEBUG - 2011-03-26 20:06:37 --> Total execution time: 0.1024
+DEBUG - 2011-03-26 20:06:38 --> Config Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:06:38 --> URI Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Router Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Output Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Input Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:06:38 --> Language Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:06:38 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:06:38 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:06:38 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:06:38 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Session Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:06:38 --> Session routines successfully run
+DEBUG - 2011-03-26 20:06:38 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:06:38 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:06:38 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:06:38 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:06:38 --> File loaded: application/views/users/view.php
+DEBUG - 2011-03-26 20:06:38 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:06:38 --> Final output sent to browser
+DEBUG - 2011-03-26 20:06:38 --> Total execution time: 0.0927
+DEBUG - 2011-03-26 20:06:45 --> Config Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:06:45 --> URI Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Router Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Output Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Input Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:06:45 --> Language Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:06:45 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:06:45 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:06:45 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:06:45 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Session Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:06:45 --> Session routines successfully run
+DEBUG - 2011-03-26 20:06:45 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:06:45 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:06:45 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:06:45 --> File loaded: application/views/users/menu.php
+DEBUG - 2011-03-26 20:06:45 --> File loaded: application/views/users/roll.php
+DEBUG - 2011-03-26 20:06:45 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:06:45 --> Final output sent to browser
+DEBUG - 2011-03-26 20:06:45 --> Total execution time: 0.0950
+DEBUG - 2011-03-26 20:06:45 --> Config Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:06:45 --> URI Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Router Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Output Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Input Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:06:45 --> Language Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:06:45 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:06:45 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:06:45 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:06:45 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Session Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:06:45 --> Session routines successfully run
+DEBUG - 2011-03-26 20:06:45 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:06:45 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:06:45 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:06:45 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:06:45 --> File loaded: application/views/groups/menu.php
+DEBUG - 2011-03-26 20:06:45 --> File loaded: application/views/groups/roll.php
+DEBUG - 2011-03-26 20:06:45 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:06:45 --> Final output sent to browser
+DEBUG - 2011-03-26 20:06:45 --> Total execution time: 0.1768
+DEBUG - 2011-03-26 20:06:46 --> Config Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:06:46 --> URI Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Router Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Output Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Input Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:06:46 --> Language Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:06:46 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:06:46 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:06:46 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:06:46 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Session Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:06:46 --> Session routines successfully run
+DEBUG - 2011-03-26 20:06:46 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:06:46 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:06:46 --> Final output sent to browser
+DEBUG - 2011-03-26 20:06:46 --> Total execution time: 0.0780
+DEBUG - 2011-03-26 20:06:49 --> Config Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:06:49 --> URI Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Router Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Output Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Input Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:06:49 --> Language Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:06:49 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:06:49 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:06:49 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:06:49 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Session Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:06:49 --> Session routines successfully run
+DEBUG - 2011-03-26 20:06:49 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:06:49 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:06:49 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:06:49 --> File loaded: application/views/users/menu.php
+DEBUG - 2011-03-26 20:06:49 --> File loaded: application/views/users/roll.php
+DEBUG - 2011-03-26 20:06:49 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:06:49 --> Final output sent to browser
+DEBUG - 2011-03-26 20:06:49 --> Total execution time: 0.0979
+DEBUG - 2011-03-26 20:06:49 --> Config Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:06:49 --> URI Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Router Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Output Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Input Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:06:49 --> Language Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:06:49 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:06:49 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:06:49 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:06:49 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:06:49 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:06:50 --> Session Class Initialized
+DEBUG - 2011-03-26 20:06:50 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:06:50 --> Session routines successfully run
+DEBUG - 2011-03-26 20:06:50 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:06:50 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:50 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:50 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:06:50 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:06:50 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:06:50 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:06:50 --> File loaded: application/views/users/menu.php
+DEBUG - 2011-03-26 20:06:50 --> File loaded: application/views/users/add.php
+DEBUG - 2011-03-26 20:06:50 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:06:50 --> Final output sent to browser
+DEBUG - 2011-03-26 20:06:50 --> Total execution time: 0.0760
+DEBUG - 2011-03-26 20:06:51 --> Config Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:06:51 --> URI Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Router Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Output Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Input Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:06:51 --> Language Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:06:51 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:06:51 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:06:51 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:06:51 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Session Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:06:51 --> Session routines successfully run
+DEBUG - 2011-03-26 20:06:51 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Model Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:06:51 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:06:51 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:06:51 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:06:51 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:06:51 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:06:51 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:06:51 --> Final output sent to browser
+DEBUG - 2011-03-26 20:06:51 --> Total execution time: 0.1020
+DEBUG - 2011-03-26 20:08:36 --> Config Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:08:36 --> URI Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Router Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Output Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Input Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:08:36 --> Language Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:08:36 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:08:36 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:08:36 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:08:36 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Session Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:08:36 --> Session routines successfully run
+DEBUG - 2011-03-26 20:08:36 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:08:36 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:08:36 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:08:36 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:08:36 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:08:36 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:08:36 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:08:36 --> Final output sent to browser
+DEBUG - 2011-03-26 20:08:36 --> Total execution time: 0.0701
+DEBUG - 2011-03-26 20:08:37 --> Config Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:08:37 --> URI Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Router Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Output Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Input Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:08:37 --> Language Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:08:37 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:08:37 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:08:37 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:08:37 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Session Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:08:37 --> Session routines successfully run
+DEBUG - 2011-03-26 20:08:37 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:08:37 --> Language file loaded: language/lithuanian/error_lang.php
+ERROR - 2011-03-26 20:08:37 --> Severity: Notice  --> Undefined variable: product_id /srv/http/crm2/crm-d2/controllers/products.php 149
+DEBUG - 2011-03-26 20:08:37 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:08:37 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:08:48 --> Config Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:08:48 --> URI Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Router Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Output Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Input Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:08:48 --> Language Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:08:48 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:08:48 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:08:48 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:08:48 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Session Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:08:48 --> Session routines successfully run
+DEBUG - 2011-03-26 20:08:48 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:08:48 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:08:48 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:08:48 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:08:54 --> Config Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:08:54 --> URI Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Router Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Output Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Input Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:08:54 --> Language Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:08:54 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:08:54 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:08:54 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:08:54 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Session Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:08:54 --> Session routines successfully run
+DEBUG - 2011-03-26 20:08:54 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:08:54 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:08:54 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:08:54 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:08:54 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:08:54 --> File loaded: application/views/products/delete.php
+DEBUG - 2011-03-26 20:08:54 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:08:54 --> Final output sent to browser
+DEBUG - 2011-03-26 20:08:54 --> Total execution time: 0.1336
+DEBUG - 2011-03-26 20:08:56 --> Config Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:08:56 --> URI Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Router Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Output Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Input Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:08:56 --> Language Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:08:56 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:08:56 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:08:56 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:08:56 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Session Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:08:56 --> Session routines successfully run
+DEBUG - 2011-03-26 20:08:56 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:08:56 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:08:56 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:08:56 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:08:56 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:08:56 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:08:56 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:08:56 --> Final output sent to browser
+DEBUG - 2011-03-26 20:08:56 --> Total execution time: 0.0919
+DEBUG - 2011-03-26 20:08:58 --> Config Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:08:58 --> URI Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Router Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Output Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Input Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:08:58 --> Language Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:08:58 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:08:58 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:08:58 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:08:58 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Session Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:08:58 --> Session routines successfully run
+DEBUG - 2011-03-26 20:08:58 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:08:58 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:08:58 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:08:58 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:08:58 --> File loaded: application/views/products/delete.php
+DEBUG - 2011-03-26 20:08:58 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:08:58 --> Final output sent to browser
+DEBUG - 2011-03-26 20:08:58 --> Total execution time: 0.0968
+DEBUG - 2011-03-26 20:08:58 --> Config Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:08:58 --> URI Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Router Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Output Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Input Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:08:58 --> Language Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:08:58 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:08:58 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:08:58 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:08:58 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Session Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:08:58 --> Session routines successfully run
+DEBUG - 2011-03-26 20:08:58 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Model Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:08:58 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:08:58 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:08:58 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:08:58 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:08:58 --> File loaded: application/views/products/delete.php
+DEBUG - 2011-03-26 20:08:58 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:08:58 --> Final output sent to browser
+DEBUG - 2011-03-26 20:08:58 --> Total execution time: 0.0804
+DEBUG - 2011-03-26 20:09:51 --> Config Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:09:51 --> URI Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Router Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Output Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Input Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:09:51 --> Language Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:09:51 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:09:51 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:09:51 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:09:51 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Session Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:09:51 --> Session routines successfully run
+DEBUG - 2011-03-26 20:09:51 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:09:51 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:09:51 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:09:51 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:09:51 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:09:51 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:09:51 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:09:51 --> Final output sent to browser
+DEBUG - 2011-03-26 20:09:51 --> Total execution time: 0.0961
+DEBUG - 2011-03-26 20:09:53 --> Config Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:09:53 --> URI Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Router Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Output Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Input Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:09:53 --> Language Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:09:53 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:09:53 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:09:53 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:09:53 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Session Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:09:53 --> Session routines successfully run
+DEBUG - 2011-03-26 20:09:53 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:09:53 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:09:53 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:09:53 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:09:53 --> File loaded: application/views/products/delete.php
+DEBUG - 2011-03-26 20:09:53 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:09:53 --> Final output sent to browser
+DEBUG - 2011-03-26 20:09:53 --> Total execution time: 0.0794
+DEBUG - 2011-03-26 20:09:53 --> Config Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:09:53 --> URI Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Router Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Output Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Input Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:09:53 --> Language Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:09:53 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:09:53 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:09:53 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:09:53 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:09:54 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Session Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:09:54 --> Session routines successfully run
+DEBUG - 2011-03-26 20:09:54 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:09:54 --> Config Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:09:54 --> URI Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Router Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Output Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Input Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:09:54 --> Language Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:09:54 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:09:54 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:09:54 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:09:54 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Session Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:09:54 --> Session routines successfully run
+DEBUG - 2011-03-26 20:09:54 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:09:54 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:09:54 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:09:54 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:09:54 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:09:54 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:09:54 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:09:54 --> Final output sent to browser
+DEBUG - 2011-03-26 20:09:54 --> Total execution time: 0.0566
+DEBUG - 2011-03-26 20:10:48 --> Config Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:10:48 --> URI Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Router Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Output Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Input Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:10:48 --> Language Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:10:48 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:10:48 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:10:48 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:10:48 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Session Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:10:48 --> Session routines successfully run
+DEBUG - 2011-03-26 20:10:48 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Model Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Model Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Model Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:10:48 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:10:48 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:10:48 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:10:48 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:10:48 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:10:48 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:10:48 --> Final output sent to browser
+DEBUG - 2011-03-26 20:10:48 --> Total execution time: 0.0776
+DEBUG - 2011-03-26 20:10:54 --> Config Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:10:54 --> URI Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Router Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Output Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Input Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:10:54 --> Language Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:10:54 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:10:54 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:10:54 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:10:54 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Session Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:10:54 --> Session routines successfully run
+DEBUG - 2011-03-26 20:10:54 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Model Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:10:54 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:10:54 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:10:54 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:10:54 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:10:54 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:10:54 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:10:54 --> Final output sent to browser
+DEBUG - 2011-03-26 20:10:54 --> Total execution time: 0.0782
+DEBUG - 2011-03-26 20:10:55 --> Config Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:10:55 --> URI Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> Router Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> Output Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> Input Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:10:55 --> Language Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:10:55 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:10:55 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:10:55 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:10:55 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> Session Class Initialized
+DEBUG - 2011-03-26 20:10:55 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:10:55 --> Session routines successfully run
+DEBUG - 2011-03-26 20:10:55 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Config Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:14:38 --> URI Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Router Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Output Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Input Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:14:38 --> Language Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:14:38 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:14:38 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:14:38 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:14:38 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Session Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:14:38 --> Session routines successfully run
+DEBUG - 2011-03-26 20:14:38 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Model Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Model Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Model Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:14:38 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:14:38 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:14:38 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:14:38 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:14:38 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:14:38 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:14:38 --> Final output sent to browser
+DEBUG - 2011-03-26 20:14:38 --> Total execution time: 0.0798
+DEBUG - 2011-03-26 20:14:40 --> Config Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:14:40 --> URI Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> Router Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> Output Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> Input Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:14:40 --> Language Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:14:40 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:14:40 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:14:40 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:14:40 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> Session Class Initialized
+DEBUG - 2011-03-26 20:14:40 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:14:40 --> Session routines successfully run
+DEBUG - 2011-03-26 20:14:40 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Config Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:18:30 --> URI Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Router Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Output Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Input Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:18:30 --> Language Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:18:30 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:18:30 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:18:30 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:18:30 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Session Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:18:30 --> Session routines successfully run
+DEBUG - 2011-03-26 20:18:30 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:18:30 --> Model Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Config Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:18:31 --> URI Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Router Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Output Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Input Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:18:31 --> Language Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:18:31 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:18:31 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:18:31 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:18:31 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Session Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:18:31 --> Session routines successfully run
+DEBUG - 2011-03-26 20:18:31 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:18:31 --> Model Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Config Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:18:45 --> URI Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Router Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Output Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Input Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:18:45 --> Language Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:18:45 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:18:45 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:18:45 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:18:45 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Session Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:18:45 --> Session routines successfully run
+DEBUG - 2011-03-26 20:18:45 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Model Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Model Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:18:45 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:18:45 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:18:45 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:18:45 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:18:45 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:18:45 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:18:45 --> Final output sent to browser
+DEBUG - 2011-03-26 20:18:45 --> Total execution time: 0.0758
+DEBUG - 2011-03-26 20:18:54 --> Config Class Initialized
+DEBUG - 2011-03-26 20:18:54 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:18:54 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:18:54 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:18:54 --> URI Class Initialized
+DEBUG - 2011-03-26 20:18:54 --> Router Class Initialized
+DEBUG - 2011-03-26 20:18:54 --> Output Class Initialized
+DEBUG - 2011-03-26 20:18:54 --> Input Class Initialized
+DEBUG - 2011-03-26 20:18:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:18:54 --> Language Class Initialized
+DEBUG - 2011-03-26 20:18:54 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:18:54 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:18:54 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:18:55 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:18:55 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:18:55 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:18:55 --> Session Class Initialized
+DEBUG - 2011-03-26 20:18:55 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:18:55 --> Session routines successfully run
+DEBUG - 2011-03-26 20:18:55 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:18:55 --> Model Class Initialized
+DEBUG - 2011-03-26 20:18:55 --> Model Class Initialized
+DEBUG - 2011-03-26 20:18:55 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:18:55 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:18:55 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:18:55 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:18:55 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:18:55 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:18:55 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:18:55 --> Final output sent to browser
+DEBUG - 2011-03-26 20:18:55 --> Total execution time: 0.0670
+DEBUG - 2011-03-26 20:19:31 --> Config Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:19:31 --> URI Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Router Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Output Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Input Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:19:31 --> Language Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:19:31 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:19:31 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:19:31 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:19:31 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Session Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:19:31 --> Session routines successfully run
+DEBUG - 2011-03-26 20:19:31 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Model Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Model Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:19:31 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:19:31 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:19:31 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:19:31 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:19:31 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:19:31 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:19:31 --> Final output sent to browser
+DEBUG - 2011-03-26 20:19:31 --> Total execution time: 0.0876
+DEBUG - 2011-03-26 20:27:38 --> Config Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:27:38 --> URI Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Router Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Output Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Input Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:27:38 --> Language Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:27:38 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:27:38 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:27:38 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:27:38 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Session Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:27:38 --> Session routines successfully run
+DEBUG - 2011-03-26 20:27:38 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Model Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Model Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:27:38 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:27:38 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:27:38 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:27:38 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:27:38 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:27:38 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:27:38 --> Final output sent to browser
+DEBUG - 2011-03-26 20:27:38 --> Total execution time: 0.0848
+DEBUG - 2011-03-26 20:27:39 --> Config Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:27:39 --> URI Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Router Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Output Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Input Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:27:39 --> Language Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:27:39 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:27:39 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:27:39 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:27:39 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Session Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:27:39 --> Session routines successfully run
+DEBUG - 2011-03-26 20:27:39 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Model Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Model Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:27:39 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:27:39 --> Final output sent to browser
+DEBUG - 2011-03-26 20:27:39 --> Total execution time: 0.0941
+DEBUG - 2011-03-26 20:28:12 --> Config Class Initialized
+DEBUG - 2011-03-26 20:28:12 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:28:12 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:28:12 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:28:12 --> URI Class Initialized
+DEBUG - 2011-03-26 20:28:12 --> Router Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Output Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Input Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:28:13 --> Language Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:28:13 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:28:13 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:28:13 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:28:13 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Session Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:28:13 --> Session routines successfully run
+DEBUG - 2011-03-26 20:28:13 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Model Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Model Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:28:13 --> Language file loaded: language/lithuanian/error_lang.php
+ERROR - 2011-03-26 20:28:13 --> Severity: Notice  --> Undefined variable: header /srv/http/crm2/crm-d2/controllers/clients.php 33
+DEBUG - 2011-03-26 20:28:13 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:28:13 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:28:13 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:28:13 --> File loaded: application/views/clients/add.php
+DEBUG - 2011-03-26 20:28:13 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:28:13 --> Final output sent to browser
+DEBUG - 2011-03-26 20:28:13 --> Total execution time: 0.0731
+DEBUG - 2011-03-26 20:28:31 --> Config Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:28:31 --> URI Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Router Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Output Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Input Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:28:31 --> Language Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:28:31 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:28:31 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:28:31 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:28:31 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Session Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:28:31 --> Session routines successfully run
+DEBUG - 2011-03-26 20:28:31 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Model Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Model Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:28:31 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:28:31 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:28:31 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:28:31 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:28:31 --> File loaded: application/views/clients/add.php
+DEBUG - 2011-03-26 20:28:31 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:28:31 --> Final output sent to browser
+DEBUG - 2011-03-26 20:28:31 --> Total execution time: 0.0674
+DEBUG - 2011-03-26 20:32:53 --> Config Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:32:53 --> URI Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Router Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Output Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Input Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:32:53 --> Language Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:32:53 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:32:53 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:32:53 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:32:53 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Session Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:32:53 --> Session routines successfully run
+DEBUG - 2011-03-26 20:32:53 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:32:53 --> Config Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:32:53 --> URI Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Router Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Output Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Input Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:32:53 --> Language Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:32:53 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:32:53 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:32:53 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:32:53 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Session Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:32:53 --> Session routines successfully run
+DEBUG - 2011-03-26 20:32:53 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:32:53 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:32:53 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:32:53 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:32:53 --> File loaded: application/views/clients/menu.php
+ERROR - 2011-03-26 20:32:53 --> Severity: Notice  --> Undefined variable: data /srv/http/crm2/crm-d2/controllers/clients.php 22
+DEBUG - 2011-03-26 20:32:53 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:32:53 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:32:53 --> Final output sent to browser
+DEBUG - 2011-03-26 20:32:53 --> Total execution time: 0.0471
+DEBUG - 2011-03-26 20:33:53 --> Config Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:33:53 --> URI Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Router Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Output Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Input Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:33:53 --> Language Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:33:53 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:33:53 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:33:53 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:33:53 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Session Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:33:53 --> Session routines successfully run
+DEBUG - 2011-03-26 20:33:53 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Model Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:33:53 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:33:53 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:33:54 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:33:54 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:33:54 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:33:54 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:33:54 --> Final output sent to browser
+DEBUG - 2011-03-26 20:33:54 --> Total execution time: 0.0763
+DEBUG - 2011-03-26 20:35:29 --> Config Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:35:29 --> URI Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Router Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Output Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Input Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:35:29 --> Language Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:35:29 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:35:29 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:35:29 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:35:29 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Session Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:35:29 --> Session routines successfully run
+DEBUG - 2011-03-26 20:35:29 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Model Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Model Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:35:29 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:35:29 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:35:29 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:35:29 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:35:29 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:35:29 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:35:29 --> Final output sent to browser
+DEBUG - 2011-03-26 20:35:29 --> Total execution time: 0.0712
+DEBUG - 2011-03-26 20:36:36 --> Config Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:36:36 --> URI Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Router Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Output Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Input Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:36:36 --> Language Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:36:36 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:36:36 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:36:36 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:36:36 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Session Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:36:36 --> Session routines successfully run
+DEBUG - 2011-03-26 20:36:36 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Model Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Model Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:36:36 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:36:36 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:36:36 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:36:36 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:36:36 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:36:36 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:36:36 --> Final output sent to browser
+DEBUG - 2011-03-26 20:36:36 --> Total execution time: 0.0803
+DEBUG - 2011-03-26 20:38:28 --> Config Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:38:28 --> URI Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Router Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Output Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Input Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:38:28 --> Language Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:38:28 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:38:28 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:38:28 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:38:28 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Session Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:38:28 --> Session routines successfully run
+DEBUG - 2011-03-26 20:38:28 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Model Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Model Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:38:28 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:38:28 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:38:28 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:38:28 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:38:28 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:38:28 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:38:28 --> Final output sent to browser
+DEBUG - 2011-03-26 20:38:28 --> Total execution time: 0.0727
+DEBUG - 2011-03-26 20:38:49 --> Config Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:38:49 --> URI Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Router Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Output Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Input Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:38:49 --> Language Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:38:49 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:38:49 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:38:49 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:38:49 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Session Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:38:49 --> Session routines successfully run
+DEBUG - 2011-03-26 20:38:49 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Model Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Model Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:38:49 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:38:49 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:38:49 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:38:49 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:38:49 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:38:49 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:38:49 --> Final output sent to browser
+DEBUG - 2011-03-26 20:38:49 --> Total execution time: 0.0698
+DEBUG - 2011-03-26 20:42:18 --> Config Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:42:18 --> URI Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Router Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Output Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Input Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:42:18 --> Language Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:42:18 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:42:18 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:42:18 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:42:18 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Session Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:42:18 --> Session routines successfully run
+DEBUG - 2011-03-26 20:42:18 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Model Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Model Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:42:18 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:42:18 --> Final output sent to browser
+DEBUG - 2011-03-26 20:42:18 --> Total execution time: 0.0793
+DEBUG - 2011-03-26 20:43:02 --> Config Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:43:02 --> URI Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Router Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Output Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Input Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:43:02 --> Language Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:43:02 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:43:02 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:43:02 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:43:02 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Session Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:43:02 --> Session routines successfully run
+DEBUG - 2011-03-26 20:43:02 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Model Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Model Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:43:02 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:43:02 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:43:02 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:43:02 --> File loaded: application/views/clients/menu.php
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 2
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 3
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 4
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 5
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 6
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 7
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 8
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 11
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 12
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 13
+ERROR - 2011-03-26 20:43:02 --> Severity: Notice  --> Trying to get property of non-object /srv/http/crm2/crm-d2/views/clients/view.php 14
+DEBUG - 2011-03-26 20:43:02 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:43:02 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:43:02 --> Final output sent to browser
+DEBUG - 2011-03-26 20:43:02 --> Total execution time: 0.0738
+DEBUG - 2011-03-26 20:44:25 --> Config Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:44:25 --> URI Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Router Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Output Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Input Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:44:25 --> Language Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:44:25 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:44:25 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:44:25 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:44:25 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Session Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:44:25 --> Session routines successfully run
+DEBUG - 2011-03-26 20:44:25 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Model Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Model Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:44:25 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:44:25 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:44:25 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:44:25 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:44:25 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:44:25 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:44:25 --> Final output sent to browser
+DEBUG - 2011-03-26 20:44:25 --> Total execution time: 0.0880
+DEBUG - 2011-03-26 20:44:40 --> Config Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:44:40 --> URI Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Router Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Output Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Input Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:44:40 --> Language Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:44:40 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:44:40 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:44:40 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:44:40 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Session Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:44:40 --> Session routines successfully run
+DEBUG - 2011-03-26 20:44:40 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Model Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Model Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:44:40 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:44:40 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:44:40 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:44:40 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:44:40 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:44:40 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:44:40 --> Final output sent to browser
+DEBUG - 2011-03-26 20:44:40 --> Total execution time: 0.0790
+DEBUG - 2011-03-26 20:44:42 --> Config Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:44:42 --> URI Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Router Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Output Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Input Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:44:42 --> Language Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:44:42 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:44:42 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:44:42 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:44:42 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Session Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:44:42 --> Session routines successfully run
+DEBUG - 2011-03-26 20:44:42 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:44:42 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:44:42 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:44:42 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:44:42 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:44:42 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:44:42 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:44:42 --> Final output sent to browser
+DEBUG - 2011-03-26 20:44:42 --> Total execution time: 0.0773
+DEBUG - 2011-03-26 20:45:09 --> Config Class Initialized
+DEBUG - 2011-03-26 20:45:09 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:45:09 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:45:09 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:45:09 --> URI Class Initialized
+DEBUG - 2011-03-26 20:45:09 --> Router Class Initialized
+DEBUG - 2011-03-26 20:45:09 --> Output Class Initialized
+DEBUG - 2011-03-26 20:45:09 --> Input Class Initialized
+DEBUG - 2011-03-26 20:45:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:45:09 --> Language Class Initialized
+DEBUG - 2011-03-26 20:45:10 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:45:10 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:45:10 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:45:10 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:45:10 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:45:10 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:45:10 --> Session Class Initialized
+DEBUG - 2011-03-26 20:45:10 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:45:10 --> Session routines successfully run
+DEBUG - 2011-03-26 20:45:10 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:45:10 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:10 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:10 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:45:10 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:45:10 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:45:10 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:45:10 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:45:10 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:45:10 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:45:10 --> Final output sent to browser
+DEBUG - 2011-03-26 20:45:10 --> Total execution time: 0.1002
+DEBUG - 2011-03-26 20:45:18 --> Config Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:45:18 --> URI Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Router Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Output Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Input Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:45:18 --> Language Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:45:18 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:45:18 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:45:18 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:45:18 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Session Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:45:18 --> Session routines successfully run
+DEBUG - 2011-03-26 20:45:18 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:45:18 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:45:18 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:45:18 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:45:18 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:45:18 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:45:18 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:45:18 --> Final output sent to browser
+DEBUG - 2011-03-26 20:45:18 --> Total execution time: 0.1310
+DEBUG - 2011-03-26 20:45:33 --> Config Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:45:33 --> URI Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Router Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Output Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Input Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:45:33 --> Language Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:45:33 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:45:33 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:45:33 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:45:33 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Session Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:45:33 --> Session routines successfully run
+DEBUG - 2011-03-26 20:45:33 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:45:33 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:45:33 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:45:33 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:45:33 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:45:33 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:45:33 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:45:33 --> Final output sent to browser
+DEBUG - 2011-03-26 20:45:33 --> Total execution time: 0.0774
+DEBUG - 2011-03-26 20:45:42 --> Config Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:45:42 --> URI Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Router Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Output Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Input Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:45:42 --> Language Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:45:42 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:45:42 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:45:42 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:45:42 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Session Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:45:42 --> Session routines successfully run
+DEBUG - 2011-03-26 20:45:42 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:45:42 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:45:42 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:45:42 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:45:42 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:45:42 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:45:42 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:45:42 --> Final output sent to browser
+DEBUG - 2011-03-26 20:45:42 --> Total execution time: 0.0709
+DEBUG - 2011-03-26 20:45:45 --> Config Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:45:45 --> URI Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Router Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Output Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Input Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:45:45 --> Language Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:45:45 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:45:45 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:45:45 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:45:45 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Session Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:45:45 --> Session routines successfully run
+DEBUG - 2011-03-26 20:45:45 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:45:45 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:45:45 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:45:45 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:45:45 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:45:45 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:45:45 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:45:45 --> Final output sent to browser
+DEBUG - 2011-03-26 20:45:45 --> Total execution time: 0.1091
+DEBUG - 2011-03-26 20:45:46 --> Config Class Initialized
+DEBUG - 2011-03-26 20:45:46 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:45:46 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:45:46 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:45:46 --> URI Class Initialized
+DEBUG - 2011-03-26 20:45:46 --> Router Class Initialized
+DEBUG - 2011-03-26 20:45:46 --> Output Class Initialized
+DEBUG - 2011-03-26 20:45:46 --> Input Class Initialized
+DEBUG - 2011-03-26 20:45:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:45:46 --> Language Class Initialized
+DEBUG - 2011-03-26 20:45:46 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:45:46 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:45:46 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:45:46 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:45:46 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:45:46 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:45:47 --> Session Class Initialized
+DEBUG - 2011-03-26 20:45:47 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:45:47 --> Session routines successfully run
+DEBUG - 2011-03-26 20:45:47 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:45:47 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:47 --> Model Class Initialized
+DEBUG - 2011-03-26 20:45:47 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:45:47 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:45:47 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:45:47 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:45:47 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:45:47 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:45:47 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:45:47 --> Final output sent to browser
+DEBUG - 2011-03-26 20:45:47 --> Total execution time: 0.1262
+DEBUG - 2011-03-26 20:46:25 --> Config Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:46:25 --> URI Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Router Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Output Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Input Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:46:25 --> Language Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:46:25 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:46:25 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:46:25 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:46:25 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Session Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:46:25 --> Session routines successfully run
+DEBUG - 2011-03-26 20:46:25 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Model Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Model Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:46:25 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:46:25 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:46:25 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:46:25 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:46:25 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:46:25 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:46:25 --> Final output sent to browser
+DEBUG - 2011-03-26 20:46:25 --> Total execution time: 0.0722
+DEBUG - 2011-03-26 20:46:26 --> Config Class Initialized
+DEBUG - 2011-03-26 20:46:26 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:46:26 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:46:26 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:46:26 --> URI Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Router Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Output Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Input Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:46:27 --> Language Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:46:27 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:46:27 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:46:27 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:46:27 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Session Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:46:27 --> Session routines successfully run
+DEBUG - 2011-03-26 20:46:27 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Model Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Model Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:46:27 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:46:27 --> Final output sent to browser
+DEBUG - 2011-03-26 20:46:27 --> Total execution time: 0.0716
+DEBUG - 2011-03-26 20:46:41 --> Config Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:46:41 --> URI Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Router Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Output Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Input Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:46:41 --> Language Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:46:41 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:46:41 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:46:41 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:46:41 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Session Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:46:41 --> Session routines successfully run
+DEBUG - 2011-03-26 20:46:41 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Model Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Model Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Model Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:46:41 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:46:41 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:46:41 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:46:41 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:46:41 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:46:41 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:46:41 --> Final output sent to browser
+DEBUG - 2011-03-26 20:46:41 --> Total execution time: 0.0997
+DEBUG - 2011-03-26 20:46:42 --> Config Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:46:42 --> URI Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Router Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Output Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Input Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:46:42 --> Language Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:46:42 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:46:42 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:46:42 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:46:42 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Session Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:46:42 --> Session routines successfully run
+DEBUG - 2011-03-26 20:46:42 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:46:42 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:46:42 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:46:42 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:46:42 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:46:42 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:46:42 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:46:42 --> Final output sent to browser
+DEBUG - 2011-03-26 20:46:42 --> Total execution time: 0.0822
+DEBUG - 2011-03-26 20:47:36 --> Config Class Initialized
+DEBUG - 2011-03-26 20:47:36 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:47:36 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:47:36 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:47:36 --> URI Class Initialized
+DEBUG - 2011-03-26 20:47:36 --> Router Class Initialized
+DEBUG - 2011-03-26 20:47:36 --> Output Class Initialized
+DEBUG - 2011-03-26 20:47:36 --> Input Class Initialized
+DEBUG - 2011-03-26 20:47:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:47:36 --> Language Class Initialized
+DEBUG - 2011-03-26 20:47:36 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:47:36 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:47:36 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:47:36 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:47:37 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:47:37 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Session Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:47:37 --> Session routines successfully run
+DEBUG - 2011-03-26 20:47:37 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:47:37 --> Config Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:47:37 --> URI Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Router Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> No URI present. Default controller set.
+DEBUG - 2011-03-26 20:47:37 --> Output Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Input Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:47:37 --> Language Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:47:37 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:47:37 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:47:37 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:47:37 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Session Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:47:37 --> A session cookie was not found.
+DEBUG - 2011-03-26 20:47:37 --> Session routines successfully run
+DEBUG - 2011-03-26 20:47:37 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:47:37 --> Config Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:47:37 --> URI Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Router Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Output Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Input Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:47:37 --> Language Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:47:37 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:47:37 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:47:37 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:47:37 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Session Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:47:37 --> Session routines successfully run
+DEBUG - 2011-03-26 20:47:37 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:47:37 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:47:37 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:47:37 --> File loaded: application/views/users/login.php
+DEBUG - 2011-03-26 20:47:37 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:47:37 --> Final output sent to browser
+DEBUG - 2011-03-26 20:47:37 --> Total execution time: 0.0814
+DEBUG - 2011-03-26 20:47:40 --> Config Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:47:40 --> URI Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Router Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Output Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Input Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:47:40 --> Language Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:47:40 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:47:40 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:47:40 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:47:40 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Session Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:47:40 --> Session routines successfully run
+DEBUG - 2011-03-26 20:47:40 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:47:40 --> Config Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:47:40 --> URI Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Router Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> No URI present. Default controller set.
+DEBUG - 2011-03-26 20:47:40 --> Output Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Input Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:47:40 --> Language Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:47:40 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:47:40 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:47:40 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:47:40 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Session Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:47:40 --> Session routines successfully run
+DEBUG - 2011-03-26 20:47:40 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:47:40 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:47:40 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:47:40 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:47:40 --> File loaded: application/views/users/index.php
+DEBUG - 2011-03-26 20:47:40 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:47:40 --> Final output sent to browser
+DEBUG - 2011-03-26 20:47:40 --> Total execution time: 0.0500
+DEBUG - 2011-03-26 20:47:42 --> Config Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:47:42 --> URI Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Router Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Output Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Input Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:47:42 --> Language Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:47:42 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:47:42 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:47:42 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:47:42 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Session Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:47:42 --> Session routines successfully run
+DEBUG - 2011-03-26 20:47:42 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:47:42 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:47:42 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:47:42 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:47:42 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:47:42 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:47:42 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:47:42 --> Final output sent to browser
+DEBUG - 2011-03-26 20:47:42 --> Total execution time: 0.1002
+DEBUG - 2011-03-26 20:47:43 --> Config Class Initialized
+DEBUG - 2011-03-26 20:47:43 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:47:43 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:47:43 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:47:43 --> URI Class Initialized
+DEBUG - 2011-03-26 20:47:43 --> Router Class Initialized
+DEBUG - 2011-03-26 20:47:43 --> Output Class Initialized
+DEBUG - 2011-03-26 20:47:43 --> Input Class Initialized
+DEBUG - 2011-03-26 20:47:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:47:43 --> Language Class Initialized
+DEBUG - 2011-03-26 20:47:43 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:47:43 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:47:43 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:47:43 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:47:43 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:47:44 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Session Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:47:44 --> Session routines successfully run
+DEBUG - 2011-03-26 20:47:44 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:47:44 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:47:44 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:47:44 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:47:44 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:47:44 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:47:44 --> Final output sent to browser
+DEBUG - 2011-03-26 20:47:44 --> Total execution time: 0.0938
+DEBUG - 2011-03-26 20:47:44 --> Config Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:47:44 --> URI Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Router Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Output Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Input Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:47:44 --> Language Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:47:44 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:47:44 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:47:44 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:47:44 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Session Class Initialized
+DEBUG - 2011-03-26 20:47:44 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:47:44 --> Session routines successfully run
+DEBUG - 2011-03-26 20:47:44 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Config Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:47:46 --> URI Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Router Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Output Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Input Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:47:46 --> Language Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:47:46 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:47:46 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:47:46 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:47:46 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Session Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:47:46 --> Session routines successfully run
+DEBUG - 2011-03-26 20:47:46 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:47:46 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:47:46 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:47:46 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:47:46 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:47:46 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:47:46 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:47:46 --> Final output sent to browser
+DEBUG - 2011-03-26 20:47:46 --> Total execution time: 0.0891
+DEBUG - 2011-03-26 20:47:47 --> Config Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:47:47 --> URI Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Router Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Output Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Input Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:47:47 --> Language Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:47:47 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:47:47 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:47:47 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:47:47 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Session Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:47:47 --> Session routines successfully run
+DEBUG - 2011-03-26 20:47:47 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Model Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:47:47 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:47:47 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:47:47 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:47:47 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:47:47 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:47:47 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:47:47 --> Final output sent to browser
+DEBUG - 2011-03-26 20:47:47 --> Total execution time: 0.0816
+DEBUG - 2011-03-26 20:48:13 --> Config Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:48:13 --> URI Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Router Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Output Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Input Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:48:13 --> Language Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:48:13 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:48:13 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:48:13 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:48:13 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Session Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:48:13 --> Session routines successfully run
+DEBUG - 2011-03-26 20:48:13 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:48:13 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:48:13 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:48:13 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:48:13 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:48:13 --> File loaded: application/views/clients/view.php
+DEBUG - 2011-03-26 20:48:13 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:48:13 --> Final output sent to browser
+DEBUG - 2011-03-26 20:48:13 --> Total execution time: 0.0920
+DEBUG - 2011-03-26 20:48:32 --> Config Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:48:32 --> URI Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Router Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Output Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Input Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:48:32 --> Language Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:48:32 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:48:32 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:48:32 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:48:32 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Session Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:48:32 --> Session routines successfully run
+DEBUG - 2011-03-26 20:48:32 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:48:32 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:48:32 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:48:32 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:48:32 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:48:32 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:48:32 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:48:32 --> Final output sent to browser
+DEBUG - 2011-03-26 20:48:32 --> Total execution time: 0.1151
+DEBUG - 2011-03-26 20:48:34 --> Config Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:48:34 --> URI Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Router Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Output Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Input Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:48:34 --> Language Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:48:34 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:48:34 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:48:34 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:48:34 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Session Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:48:34 --> Session routines successfully run
+DEBUG - 2011-03-26 20:48:34 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:48:34 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:48:34 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:48:34 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:48:34 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:48:34 --> File loaded: application/views/products/edit.php
+DEBUG - 2011-03-26 20:48:34 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:48:34 --> Final output sent to browser
+DEBUG - 2011-03-26 20:48:34 --> Total execution time: 0.1161
+DEBUG - 2011-03-26 20:48:37 --> Config Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:48:37 --> URI Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Router Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Output Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Input Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:48:37 --> Language Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:48:37 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:48:37 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:48:37 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:48:37 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Session Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:48:37 --> Session routines successfully run
+DEBUG - 2011-03-26 20:48:37 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:48:37 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:48:37 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:48:37 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:48:37 --> File loaded: application/views/users/menu.php
+DEBUG - 2011-03-26 20:48:37 --> File loaded: application/views/users/roll.php
+DEBUG - 2011-03-26 20:48:37 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:48:37 --> Final output sent to browser
+DEBUG - 2011-03-26 20:48:37 --> Total execution time: 0.0929
+DEBUG - 2011-03-26 20:48:39 --> Config Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:48:39 --> URI Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Router Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Output Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Input Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:48:39 --> Language Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:48:39 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:48:39 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:48:39 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:48:39 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Session Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:48:39 --> Session routines successfully run
+DEBUG - 2011-03-26 20:48:39 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:48:39 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:48:39 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:48:39 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:48:39 --> File loaded: application/views/users/edit.php
+DEBUG - 2011-03-26 20:48:39 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:48:39 --> Final output sent to browser
+DEBUG - 2011-03-26 20:48:39 --> Total execution time: 0.1275
+DEBUG - 2011-03-26 20:48:41 --> Config Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:48:41 --> URI Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Router Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Output Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Input Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:48:41 --> Language Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:48:41 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:48:41 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:48:41 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:48:41 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Session Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:48:41 --> Session routines successfully run
+DEBUG - 2011-03-26 20:48:41 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:48:41 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:48:41 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:48:41 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:48:41 --> File loaded: application/views/users/edit.php
+DEBUG - 2011-03-26 20:48:41 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:48:41 --> Final output sent to browser
+DEBUG - 2011-03-26 20:48:41 --> Total execution time: 0.0758
+DEBUG - 2011-03-26 20:48:43 --> Config Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:48:43 --> URI Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Router Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Output Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Input Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:48:43 --> Language Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:48:43 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:48:43 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:48:43 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:48:43 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Session Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:48:43 --> Session routines successfully run
+DEBUG - 2011-03-26 20:48:43 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:48:43 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:48:43 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:48:43 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:48:43 --> File loaded: application/views/products/menu.php
+DEBUG - 2011-03-26 20:48:43 --> File loaded: application/views/products/roll.php
+DEBUG - 2011-03-26 20:48:43 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:48:43 --> Final output sent to browser
+DEBUG - 2011-03-26 20:48:43 --> Total execution time: 0.0948
+DEBUG - 2011-03-26 20:48:49 --> Config Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:48:49 --> URI Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Router Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Output Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Input Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:48:49 --> Language Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:48:49 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:48:49 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:48:49 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:48:49 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Session Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:48:49 --> Session routines successfully run
+DEBUG - 2011-03-26 20:48:49 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:48:49 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:48:49 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:48:49 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:48:49 --> File loaded: application/views/users/menu.php
+DEBUG - 2011-03-26 20:48:49 --> File loaded: application/views/users/roll.php
+DEBUG - 2011-03-26 20:48:49 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:48:49 --> Final output sent to browser
+DEBUG - 2011-03-26 20:48:49 --> Total execution time: 0.0966
+DEBUG - 2011-03-26 20:48:57 --> Config Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Hooks Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Utf8 Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> UTF-8 Support Enabled
+DEBUG - 2011-03-26 20:48:57 --> URI Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Router Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Output Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Input Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-03-26 20:48:57 --> Language Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Loader Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Helper loaded: url_helper
+DEBUG - 2011-03-26 20:48:57 --> Helper loaded: form_helper
+DEBUG - 2011-03-26 20:48:57 --> Helper loaded: html_helper
+DEBUG - 2011-03-26 20:48:57 --> Database config for development environment is not found. Trying global config.
+DEBUG - 2011-03-26 20:48:57 --> Database Driver Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Session Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Helper loaded: string_helper
+DEBUG - 2011-03-26 20:48:57 --> Session routines successfully run
+DEBUG - 2011-03-26 20:48:57 --> Controller Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Model Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Encrypt Class Initialized
+DEBUG - 2011-03-26 20:48:57 --> Language file loaded: language/lithuanian/error_lang.php
+DEBUG - 2011-03-26 20:48:57 --> File loaded: application/views/header.php
+DEBUG - 2011-03-26 20:48:57 --> File loaded: application/views/menu.php
+DEBUG - 2011-03-26 20:48:57 --> File loaded: application/views/clients/menu.php
+DEBUG - 2011-03-26 20:48:57 --> File loaded: application/views/clients/roll.php
+DEBUG - 2011-03-26 20:48:57 --> File loaded: application/views/footer.php
+DEBUG - 2011-03-26 20:48:57 --> Final output sent to browser
+DEBUG - 2011-03-26 20:48:57 --> Total execution time: 0.0908
